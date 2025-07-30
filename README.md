@@ -7,6 +7,7 @@ A collection of my Arduino and IoT projects — blending code, circuits, and inn
 | Project | Description | Components |
 |--------|-------------|------------|
 | 🚦 Traffic Light System | A basic timed traffic light controller using LEDs and Arduino. | Red/Yellow/Green LEDs, Arduino Uno, Resistors |
+| Street Light using LDR |                                                                 | Led, LDR sensor, Arduino UNO,Resistors,
 
 ## 🧠 Technologies & Tools
 - Arduino IDE

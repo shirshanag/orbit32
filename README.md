@@ -13,7 +13,7 @@ A collection of my Arduino and IoT projects — blending code, circuits, and inn
 - Arduino IDE
 - C/C++ for Arduino
 - ESP8266 / ESP32
-- Sensors (DHT11, IR, etc.)
+- Sensors (LDR, PIR, etc.)
 - Communication protocols (Serial, MQTT, Wi-Fi)
 
 ---

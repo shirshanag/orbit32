@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"U1",1," Temperature Sensor [TMP36]"
+"SERVO1",1,"Continuous Micro Servo"
+"U3",1," Arduino Uno R3"
+"R1",1," Photoresistor"
+"R2",1,"1 kΩ Resistor"

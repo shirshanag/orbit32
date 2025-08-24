@@ -8,7 +8,7 @@ A collection of my Arduino and IoT projects — blending code, circuits, and inn
 |--------|-------------|------------|
 | 🚦 Traffic Light System | A basic timed traffic light controller using LEDs and Arduino. | Red/Yellow/Green LEDs, Arduino Uno, Resistors |
 | Street Light using LDR | This project uses an LDR (Light Dependent Resistor) to detect ambient light levels. When it gets dark, the Arduino automatically turns ON an LED (representing a street light). When it’s bright, the LED turns OFF, saving energy.                                                                | Led, LDR sensor, Arduino UNO,Resistors,
-| Smart-Fan-system | This project uses an 
+| Smart-Fan-system | This project uses a photo resistor, temperature sensor , arduino, servo motor. Based on the value of temperature sensor and photoresistor the servo motor operates | When exceeded the thresold servo motor operates |
 
 ## 🧠 Technologies & Tools
 - Arduino IDE
